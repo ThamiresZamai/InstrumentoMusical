@@ -1,0 +1,13 @@
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\InstrumentoMusical.dll.config
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\InstrumentoMusical.dll
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\InstrumentoMusical.pdb
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\EntityFramework.dll
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\EntityFramework.SqlServer.dll
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\EntityFramework.xml
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\EntityFramework.SqlServer.xml
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\obj\Debug\InstrumentoMusical.csprojResolveAssemblyReference.cache
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\obj\Debug\InstrumentoMusical.csproj.CoreCompileInputs.cache
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\obj\Debug\InstrumentoMusical.dll
+C:\Users\Thamires\Dropbox\Sistemas\André\TopicosAvançados\InstrumentoMusical\InstrumentoMusical\obj\Debug\InstrumentoMusical.pdb
